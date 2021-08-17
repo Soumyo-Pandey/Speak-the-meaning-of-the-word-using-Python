@@ -1,0 +1,3 @@
+Recomendation For the Project are:
+1.PyDictionary: It is a Dictionary Module for Python 2-3 to get meanings, translations, synonyms and Antonyms of words. It uses WordNet for doing as its functionality suggests and has dependencies on modules named Requests, BeautifulSoup4 and goslate .
+2.pyttsx3: It is a text to speech library. This module is what gives our system voice so that they can communicate with us. Pyttsx3 uses sapi5 in windows and espeak in windows.
